@@ -44,7 +44,7 @@ The dataset contains the following key columns:
 - Item_Outlet_Sales – Total sales for the product at the outlet  
 ---
 ## 📷 Dashboard Preview
-![BigMart Dashboard](screenshot.png)
+![BigMart Dashboard](Screenshot 2025-11-02 082224.png)
 
 ---
 
