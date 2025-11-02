@@ -43,6 +43,10 @@ The dataset contains the following key columns:
 - Item_MRP – Maximum retail price of the item  
 - Item_Outlet_Sales – Total sales for the product at the outlet  
 ---
+## 📷 Dashboard Preview
+![BigMart Dashboard](screenshot.png)
+
+---
 
 ## 🚀 How to Use
 1. Open the .pbix file in *Power BI Desktop*.  
